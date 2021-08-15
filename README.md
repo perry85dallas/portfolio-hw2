@@ -18,6 +18,12 @@ Screenshots
 
 Screen Shot 2021-08-15 at 11.42.12 AM
 
+Links
+
+https://perry85dallas.github.io/portfolio-hw2/
+
+https://github.com/perry85dallas/portfolio-hw2
+
 References
 
 https://www.youtube.com/watch?v=_w6N_nplmAw
