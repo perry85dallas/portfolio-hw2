@@ -1,0 +1,216 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+/*Header---*/
+header {
+    padding: 20px;
+    font-family: century;
+    background-color: darkslateblue;
+    color: aquamarine;
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+header nav {
+    color: aquamarine;
+    padding-top: 0px;
+    margin-right: 20px;
+    float: right;
+    font-family: century;
+    font-size: 50px;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a {
+    color: aquamarine;
+}
+
+/*Navbar---*/
+.navbar {
+    display: flex;
+    justify content: right;
+    align-items: right;
+    position: sticky;
+    top: 0;
+}
+
+.navbar ul {
+    display: flex;
+    list-style: none;
+    margin: 10px 30px;
+}
+
+.navbar ul li {
+    font-family: century;
+    color: aquamarine;
+    font-size: 30px;
+    font-weight: bold;
+}
+.navbar ul li a:hover {
+    background-color: black;
+    box-shadow: 0 0 20px;
+}
+
+/*"hero" section--------*/
+.hero {
+    display: block;
+    width: 100%;
+    height: 800px;
+    background-image: url("../images/space.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+/*About-Section----*/
+#about-me {
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    height: 100%;
+    background-color: cornflowerblue;
+}
+
+#about-me h1 {
+    color: black;
+    margin: 60px;
+}
+
+.heading {
+    font-size: 3rem;
+    font-family: century;
+    text-align: center;
+    transform: scale(1,1.4);
+    padding: 25px;
+}
+
+h2 {
+    display: block;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.about-me {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.about-me img {
+    padding: 0px 20px;
+    width: 400px;
+    height: 400px;
+}
+
+.name {
+    padding: 5px;
+}
+
+.name h3 {
+    font-size: 2.0rem;
+}
+
+/*Work-Section---------*/
+
+#work {
+    display: flex;
+    flex-direction: column;
+    background-color: darkslateblue;
+}
+
+#work h2 {
+    margin: 60px;
+}
+
+.largepic {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.largepic img {
+    width: 600px;
+    height: 400px;
+    padding: 0px;
+    margin: 10px;
+    border: 4px solid red;
+}
+
+.largepic a:hover {
+    background-color: hotpink;
+    box-shadow: 0 0 30px;
+}
+
+.gallery {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.gallery img {
+    width: 350px;
+    height: 400px;
+    padding: 00px;
+    margin: 10px;
+    border: 4px solid red;
+}
+
+.gallery a:hover {
+    background-color: hotpink;
+    box-shadow: 0 0 30px;
+}
+
+/*Footer-Section-------*/
+
+footer {
+    display: flex;
+    padding: 20px;
+    font-family: century;
+    background-color: cornflowerblue;
+    color: darkslateblue;
+    text-align: center;
+}
+
+footer h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+footer nav {
+    text-align: center;
+    color: darkslateblue;
+    padding-top: 0px;
+    margin-right: 20px;
+    float: right;
+    font-family: century;
+    font-size: 50px;
+}
+
+footer nav ul {
+    list-style-type: none;
+}
+
+footer nav ul li {
+    display: flex;
+    margin-left: 25px;
+}
+
+
+
