@@ -16,7 +16,7 @@ Included are all the files required for download in the repository, including th
 
 Screenshots
 
-Screen Shot 2021-08-15 at 11.42.12 AM
+![Screen Shot 2021-08-15 at 11 42 12 AM](https://user-images.githubusercontent.com/86323038/129494493-ba363e50-fb8e-4d6e-b957-daebe8e2a751.png)
 
 Links
 
